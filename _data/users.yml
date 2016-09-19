@@ -48,6 +48,11 @@
   logo: algorithmia.png
   how: "<a href='http://blog.algorithmia.com/2016/05/algorithmia-now-supports-python-3-javascript-rust-ruby/'>Rust algorithm development</a> is a first-class citizen of our platform."
 -
+  name: ANIXE
+  url: http://www.anixe.pl/
+  logo: anixe.png
+  how: "Building the next generation travel services trading platform in Rust."
+-
   name: AppSignal
   url: https://appsignal.com/
   logo: appsignal.png
@@ -66,7 +71,7 @@
   name: Beget
   url: https://beget.com
   logo: beget.png
-  how: "As part of backup and resource management systems."
+  how: "As part of backup, resource management systems and <a href='https://github.com/LTD-Beget/syncookied'>DDOS mitigation</a>"
 -
   name: Coursera
   url: https://www.coursera.org
@@ -157,6 +162,11 @@
   url: https://www.getsentry.com/
   logo: sentry-horizontal-black.svg
   how: "<a href='http://lucumr.pocoo.org/2016/7/10/rust-rest/'>A command-line client for the Sentry API.</a>"
+-
+  name: Snips
+  url: https://snips.ai/
+  logo: snips.svg
+  how: "<a href='https://github.com/snipsco/rust-threshold-secret-sharing'>AI assistants that are private by design</a>."
 -
   name: Stratum Security
   url: https://stratumsecurity.com/
